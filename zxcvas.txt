@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 asdasd2adfzxcvzxcv2121212
+=======
+adfzxcvzxcv
+
+
+
+
+zxcvxzcvs
+>>>>>>> 4fa4810ec0c0bcbfac332df1de956d47c52f906d
